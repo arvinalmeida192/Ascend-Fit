@@ -1,4 +1,4 @@
-# 🏋️ Ascend Fit
+# Ascend Fit
 
 A full-stack fitness tracking web app built with React + Firebase. Track your workouts, nutrition, and muscle development — and climb a 50-rank progression system from Iron to Ascendant.
 
